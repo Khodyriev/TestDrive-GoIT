@@ -38,7 +38,7 @@ https://www.figma.com/file/gFZRQQsiytKveoBuO5phtZ/Design?node-id=0%3A1
 Результат виконання завдання другого дня:<br>
 https://www.figma.com/file/gFZRQQsiytKveoBuO5phtZ/Design?node-id=0%3A1
 
-
+<br>
 <br>
 <br>
 <b>УРОК №3. Розробка</b>
