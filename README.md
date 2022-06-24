@@ -17,7 +17,8 @@ Homework for the 7 days TestDrive in GoIT
 Результат виконання завдання першого дня:<br>
 https://www.figma.com/file/gFZRQQsiytKveoBuO5phtZ/Design?node-id=0%3A1
 
-<br><br>
+<br>
+<br>
 <b>УРОК №2. Дизайн</b>
 
 Сьогодні:
@@ -32,7 +33,9 @@ https://www.figma.com/file/gFZRQQsiytKveoBuO5phtZ/Design?node-id=0%3A1
 
 Результат виконання завдання другого дня:<br>
 https://www.figma.com/file/gFZRQQsiytKveoBuO5phtZ/Design?node-id=0%3A1
-<br><br>
+
+<br>
+<br>
 <b>УРОК №3. Розробка</b>
 
 Блок Дизайну залишився позаду, починаємо технарську частину! 💪 Вивчаємо HTML та CSS!
