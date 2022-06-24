@@ -29,7 +29,7 @@ https://www.figma.com/file/gFZRQQsiytKveoBuO5phtZ/Design?node-id=0%3A1
 <br>
 <br>
 <b>ПРАКТИЧНЕ ЗАВДАННЯ #2</b>
-
+<br>
 <br>
 1. Створити футер сайту та перше Pop-up вікно за відео уроком: <br> https://youtu.be/GbNnkm_KYC8 
 2. Створити самостійно друге Pop-up вікно, яке побачить користувач після того, як натисне кнопку "Запустити гуся".
@@ -49,7 +49,7 @@ https://www.figma.com/file/gFZRQQsiytKveoBuO5phtZ/Design?node-id=0%3A1
 <br>
 <br>
 <b>ПРАКТИЧНЕ ЗАВДАННЯ #3</b>
-
+<br>
 <br>
 1. Встановити редактор коду VSCode. 
 2. Переглянути відео та повторити верстку за ним:<br> https://youtu.be/3t4YHeDp_zA
